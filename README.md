@@ -1,6 +1,6 @@
-# **Project Title**
+# **Financial News Sentiment Analysis**
 
-A brief description of your project and its goals.
+This project analyzes the relationship between financial news headlines and stock market movements using advanced data analysis techniques.
 
 ## **Table of Contents**
 
@@ -28,7 +28,7 @@ This project focuses on analyzing the relationship between financial news headli
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/yetimnew/financial-news-sentiment-analysis.git
    cd your-repository
    ```
 
@@ -116,7 +116,7 @@ The data analysis involves the following steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/yetimnew/financial-news-sentiment-analysis.git
    ```
 
 2. **Install dependencies**:
