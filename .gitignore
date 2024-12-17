@@ -20,7 +20,8 @@ Thumbs.db
 
 # IDE-specific files
 .vscode/
-.idea
+.idea/
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
@@ -31,4 +32,3 @@ Thumbs.db
 
 # Ignore large CSV files
 data
-10 Academy - AIM - Week 1.docx
